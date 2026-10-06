@@ -50,17 +50,14 @@ Building Skills in Software & Web Development
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=50&animation=glow" alt="html5" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=50&animation=fade" alt="git" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=50&animation=glow" alt="css3" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=github&animation=fade&animationDuration=1.2&color=%23ffffff" alt="github" />
 </div>
+    
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 <!-- Snake Game Repo View -->
 
