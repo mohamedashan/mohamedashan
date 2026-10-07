@@ -49,11 +49,11 @@ Building Skills in Software & Web Development
 - ⚡ Fun fact **I prefer building skills quietly and consistently**
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=java&size=50&animation=glow" alt="java" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=50&animation=glow" alt="html5" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=50&animation=fade" alt="git" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=50&animation=glow" alt="git" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=50&animation=glow" alt="css3" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=github&animation=fade&animationDuration=1.2&color=%23ffffff" alt="github" />
+ <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=50&animation=glow&color=%23ffffff" alt="github" />
 </div>
     
 <div align="center">
