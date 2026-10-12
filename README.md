@@ -61,8 +61,13 @@ Building Skills in Software & Web Development
 </div>
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<br>
+<br>
+
+<p align="center">
+  <img src="your_cool_intro (1).gif" alt="My Cool Intro" width="100%" />
+</p>
+
+
 
 <h3 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
