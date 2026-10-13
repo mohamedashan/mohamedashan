@@ -27,6 +27,8 @@ I’m interested in understanding how things work, creating clean and useful int
   <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F59E0B" alt="Java" />
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=F97316" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38BDF8" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FDE047" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60A5FA" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F87171" alt="Git" />
   <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=60A5FA" alt="MySQL" />
 </div>
