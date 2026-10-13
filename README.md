@@ -1,73 +1,55 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=170&section=header&text=Mohamed%20Ashan&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Mohamed Ashan profile header" width="100%" />
+</div>
 
-<h1 align="center"> Hii,   I'm Ashan = ^.^ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  
-Building Skills in Software & Web Development
-</h1>
+<h3 align="center">Software Developer focused on practical web experiences</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1200&color=00F0FF&center=true&vCenter=true&width=900&lines=Trainee+Software+Engineer+at+iCET;Learning+Software+Development;Exploring+Programming+Languages;Building+Projects+and+Skills" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Learning+software+development;Building+full-stack+projects;Exploring+AI-powered+products;Improving+one+commit+at+a+time" alt="Typing introduction" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Precision%20in%20Logic%20|%20Excellence%20in%20Execution&fontSize=32&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
-</div>
+## About me
+
+I’m a trainee software engineer at [iCET](https://www.icet.lk/) building a strong foundation in software development, web technologies, and product-focused engineering.
+
+I enjoy turning ideas into useful, well-structured projects while improving my frontend fundamentals, backend integration, accessibility, testing, and development workflow.
+
+## Current focus
+
+- Building full-stack projects that solve focused, real-world problems
+- Exploring AI-assisted product experiences and API design
+- Improving application structure, accessibility, testing, and documentation
+- Learning through consistent practice and open-source collaboration
+
+## Featured projects
+
+### [Orbit AI](https://github.com/mohamedashan/orbit-ai)
+A focused AI workspace for turning rough ideas into clear, useful output. Built with React, Vite, and a lightweight OpenAI-compatible Node API.
+
+**Highlights:** prompt modes, activity history, demo mode, provider-agnostic AI integration, accessibility improvements, and automated tests.
+
+### [SMS Security Test Harness](https://github.com/mohamedashan/sms-security-test-harness)
+A local-only simulator for authorized SMS workflow testing. It covers consent, opt-out handling, OTP simulation, phone-number validation, and rate limiting without contacting real phone numbers or SMS providers.
+
+## Technology
 
 <div align="center">
-    <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="margin-top: 20px;" />
-    <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="margin-top: 20px;" />
+  <img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=F59E0B" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=F97316" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=38BDF8" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=FDE047" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=4ADE80" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=60A5FA" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F87171" alt="Git" />
 </div>
 
-<br/>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
-</div>
-
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
-
-
-<h3 style="text-align: center;">
-  An aspiring software developer focused on web technologies and modern programming
-</h3>
-
-
-- 🔭 I’m currently working on **Personal projects to improve my frontend and programming fundamentals**
-
-- 🌱 I’m currently learning **Programming languages, web development concepts, and software development fundamentals**
-
-- 👯 I’m looking to collaborate on **Beginner-friendly web development projects and open-source learning projects**
-
-- 🤝 I’m looking for help with **Improving real-world project structure and backend integration**
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"  />
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mohamedashan), [LinkedIn](https://www.linkedin.com/in/mohamed-ashan-237964425/)
-
-- 💬 Ask me about **Frontend basics, beginner programming, and learning resources**
-
-- 📫 How to reach me **mohamedashandev@gmail.com**
-
-- ⚡ Fun fact **I prefer building skills quietly and consistently**
-
-<div align="center">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=java&size=50&animation=glow" alt="java" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=50&animation=glow" alt="html5" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=50&animation=glow" alt="git" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=50&animation=glow" alt="css3" />
- <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=50&animation=glow&color=%23ffffff" alt="github" />
-</div>
-    
-<div align="center">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
-<!-- Snake Game Repo View -->
-
-<br>
-<br>
+## Connect
 
 <p align="center">
-  <img src="your_cool_intro (1).gif" alt="My Cool Intro" width="100%" />
+  <a href="https://github.com/mohamedashan">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/mohamed-ashan-237964425/">LinkedIn</a> ·
+  <a href="mailto:mohamedashandev@gmail.com">Email</a>
 </p>
 
-
-
-<h3 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
+<p align="center"><i>Building steadily. Learning in public. Shipping with purpose.</i></p>
